@@ -1,1 +1,1 @@
-<img width="792" height="281" alt="Github profile" src="https://github.com/user-attachments/assets/0f7fa3ec-968b-4382-a786-016a5ab929b9" />
+<img width="1583" height="561" alt="Github profile (1)" src="https://github.com/user-attachments/assets/bb4740d0-e42f-4008-83ea-78b907032cfd" />
